@@ -1,0 +1,6 @@
+bitrpc/
+debian/
+gitian*
+mac*
+wallet*
+qt*
